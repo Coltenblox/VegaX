@@ -1,2 +1,4 @@
-# VegaX
-Vega X
+Extract with WinRAR! 
+
+NO KEY SYSTEM!
+ATTACH AND ENJOY!
