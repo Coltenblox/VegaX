@@ -4,7 +4,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| a2.0.6.x   | :yes: |
+| a2.0.6.x   | :white_checkmark_yes: |
 | 5.0.x   | :x:                |
 | 4.0.x   | :x: |
 | < 4.0   | :x:                |
